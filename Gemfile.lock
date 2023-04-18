@@ -107,6 +107,7 @@ GEM
       smart_properties
     erubi (1.12.0)
     ffi (1.15.5)
+    geo_scaffold (0.1.4)
     globalid (1.0.1)
       activesupport (>= 5.0)
     hotwire-livereload (1.2.3)
@@ -282,6 +283,7 @@ DEPENDENCIES
   capybara
   debug
   erb_lint
+  geo_scaffold
   hotwire-livereload (~> 1.2)
   importmap-rails
   jbuilder

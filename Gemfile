@@ -3,6 +3,11 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 ruby "~> 3.2.0"
 
+
+# Introduce geo_scaffold gem: Building a map app in 5 minutes
+# https://github.com/champierre/geo_scaffold
+gem 'geo_scaffold'
+
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.0"
 
