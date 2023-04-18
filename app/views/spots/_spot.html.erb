@@ -1,0 +1,27 @@
+<div id="<%= dom_id spot %>">
+  <p>
+    <strong>Lat:</strong>
+    <%= spot.lat %>
+  </p>
+
+  <p>
+    <strong>Lng:</strong>
+    <%= spot.lng %>
+  </p>
+
+  <p>
+    <strong>Name:</strong>
+    <%= spot.name %>
+  </p>
+
+  <p>
+    <strong>Photo:</strong>
+    <%= link_to spot.photo.filename, spot.photo if spot.photo.attached? %>
+  </p>
+
+  <p>
+    <strong>Url:</strong>
+    <%= spot.url %>
+  </p>
+
+</div>
