@@ -14,4 +14,4 @@ https://user-images.githubusercontent.com/155807/232926631-12da91b3-e41f-49a6-95
 
 ## :octocat: License
 
-This app generated from [GitHub's official Rails template](https://github.com/github/codespaces-rails) published under [the MIT License](https://github.com/yasulab/sample_map/blob/main/LICENSE).
+This app is generated from [GitHub's official Rails template](https://github.com/github/codespaces-rails) and is published under [the MIT License](https://github.com/yasulab/sample_map/blob/main/LICENSE).
