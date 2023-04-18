@@ -8,10 +8,10 @@ https://user-images.githubusercontent.com/155807/232927340-5a212615-3caa-4975-a4
 
 ## 🕔 DEMO: Building this web app within 5 minutes
 
-
-
 https://user-images.githubusercontent.com/155807/232926631-12da91b3-e41f-49a6-95b0-90d1bf33d979.mp4
 
+<br>
 
+## :octocat: License
 
 This app generated from [GitHub's official Rails template](https://github.com/github/codespaces-rails) published under [the MIT License](https://github.com/yasulab/sample_map/blob/main/LICENSE).
