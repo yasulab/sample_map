@@ -1,7 +1,15 @@
-# GitHub Codespaces ♥️ Ruby on Rails
+This is a "🗺 Sample Map" application built within 5 minutes.
 
-Welcome to your shiny new Codespace running Rails! We've got everything fired up and running for you to explore Rails.
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with the what you're seeing right now - where you go from here is up to you!
+https://user-images.githubusercontent.com/155807/232924294-2280374c-adae-4d7f-bd88-e8a9bd3ddf03.mp4
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+(Japanese description here: https://twitter.com/i/web/status/1639447068229140482 )
+
+<br>
+
+## 🕔 DEMO: Building this web app within 5 minutes
+
+https://user-images.githubusercontent.com/155807/232924538-c46f9221-8426-4390-9e42-f289c8b7cb7c.mp4
+
+
+
